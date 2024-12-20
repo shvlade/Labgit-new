@@ -1,2 +1,5 @@
 print('hello world')
-print('casa')
+print('jo')
+print('asd')
+print('gos')
+print(dsa)
